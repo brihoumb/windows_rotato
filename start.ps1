@@ -1,0 +1,1 @@
+pwsh -ExecutionPolicy ByPass -WindowStyle Hidden -NoExit -File "$PSScriptRoot\main.ps1"
